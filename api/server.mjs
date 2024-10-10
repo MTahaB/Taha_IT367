@@ -12,7 +12,4 @@ export function createServer(){
   }
   )
   return fastify;
-
 }
-
- // "nginx:run": "docker run -d --name feature-nginx --network host feature/nginx",
